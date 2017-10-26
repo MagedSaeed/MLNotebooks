@@ -1,3 +1,5 @@
 https://www.dataquest.io/blog/free-datasets-for-projects/
 
 https://medium.com/rants-on-machine-learning/what-to-do-with-small-data-d253254d1a89
+
+Applied Statistics and Probability for Engineers_ sixth Edition_Montgomery, Runger
